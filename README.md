@@ -1,21 +1,26 @@
 # vue-online-shop-frontend
 
-## Project setup
+## 安装依赖
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### 启动服务
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### 打包
 ```
 npm run build
 ```
 
-### Lints and fixes files
+### 使用Eslint代码修复
+```
+npm run lint
+```
+
+### 在线地址
 ```
 npm run lint
 ```
